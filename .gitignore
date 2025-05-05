@@ -30,10 +30,10 @@ medical_image_processing.log
 *.ipynb
 
 # Data directories (uncomment if you don't want to track data)
-# Frames/
-# Masks/
-# archive/
-# HMC-QU/
+Frames/
+Masks/
+archive/
+HMC-QU/
 
 # OS specific files
 .DS_Store

@@ -10,7 +10,6 @@ This script processes medical imaging data by:
 3. Organizing and matching frames with corresponding masks
 4. Ensuring consistent naming and frame counts
 
-Author: Augment Agent
 """
 
 import os
